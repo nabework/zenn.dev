@@ -1,0 +1,10 @@
+{
+  "name": "zenn.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nabework/zenn.dev.git",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.29"
+  }
+}
